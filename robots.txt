@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wlaa41.github.io/s3f-safe-uav-navigation/sitemap.xml
